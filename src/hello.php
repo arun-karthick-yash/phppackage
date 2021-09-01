@@ -1,7 +1,7 @@
 <?php
-namespace helloworld;
+namespace hello;
 
-class helloworld {
+class hello {
   // Properties
   public $name;
   
@@ -16,10 +16,6 @@ class helloworld {
   
 }
 
-$apple = new helloworld();
-$apple->set_name('Apple');
-
-echo "Name: " . $apple->get_name();
 
 
 ?>
