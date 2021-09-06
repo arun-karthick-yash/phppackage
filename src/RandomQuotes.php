@@ -1,6 +1,6 @@
 <?php
 
-  namespace RandomQuotes;
+  namespace Any;
 
   class RandomQuotes {
 
